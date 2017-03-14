@@ -1,0 +1,8 @@
+
+body{
+   background-image:url(b.png);/*your background image*/  
+   background-repeat:no-repeat;/*we want to have one single image not a repeated one*/  
+   background-size:cover;
+   }
+
+ 
